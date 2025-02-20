@@ -99,9 +99,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'jwt',
-        'USER': 'jwt',
-        'PASSWORD': 'jwt',
+        'NAME': 'jwt1',
+        'USER': 'jwt1',
+        'PASSWORD': 'jwt1',
 
         'HOST': 'localhost',
         'PORT': '5432',
